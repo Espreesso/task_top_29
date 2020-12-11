@@ -15,3 +15,23 @@
   left: 0;
   min-height: 500px;
 }
+
+.searchbutton {
+  background-color: #EA6464;
+  color: white;
+  width: 124px;
+}
+
+.navbar {
+  border-top: 5px solid #EA6464;
+}
+
+.nav-item {
+  font-size: 16px;
+  color: #595959
+}
+
+#searchbar {
+  border: 3px solid #EA6464;
+  border-radius: 5px;
+}
